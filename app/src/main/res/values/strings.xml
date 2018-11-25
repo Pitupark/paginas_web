@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">paginas_web</string>
+    <string name="defaultText">Introduce una URL</string>
+</resources>
